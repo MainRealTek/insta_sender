@@ -1,0 +1,7 @@
+requests
+hashlib
+urllib
+uuid
+random
+base64
+hmac
